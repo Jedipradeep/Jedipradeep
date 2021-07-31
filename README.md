@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jedipradeep
 - 👀 I’m interested in working on data science,math, programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm addicted to learning, implementing innovative thoughts
+- 💞️ I’m looking to become a data scientist
 - 📫 How to reach me ...jedipradeep@gmail.com
 
 <!---
